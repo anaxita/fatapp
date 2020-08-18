@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    font-family: 'Roboto', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  #main-chat-window {
+    height: 64vh; 
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+  }
+  div#chat-form {
+    height: 20vh;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+  }
+
+  

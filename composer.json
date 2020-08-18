@@ -1,0 +1,8 @@
+{
+    "name": "anaxita/fat-app",
+    "description": "app for my girl",
+    "type": "project",
+    "require": {
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
